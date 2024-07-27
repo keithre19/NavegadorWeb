@@ -1,0 +1,36 @@
+{
+  "websites": [
+    {
+      "name": "Google",
+      "url": "https://www.google.com"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://www.github.com"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com"
+    },
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.com"
+    },
+    {
+       "name": "Aula virtual Mesoamenricana",
+       "url": "https://virtual.mesoamericana.edu.gt/"
+    }
+  ]
+}
